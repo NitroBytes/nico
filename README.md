@@ -22,7 +22,7 @@ El mapa de delincuencia es visible para todos los usuarios que utilicen la aplic
 - Registro de hechos pasados. Puede haber mucho miedo en el momento.
 - Versión Web.
 - Subir fotos/audio [punto complejo, falsas funas y privacidad]
-- Otorgar una API de acceso a instituciones de seguridad (Carabineros, PDI, Ministerio del Interior, etc) [vendible]
+- Otorgar una API segura de acceso a instituciones de seguridad (Carabineros, PDI, Ministerio del Interior, etc), gratuita pero con certificaciones.
 
 # Problemas conocidos
 - Falsas denuncias (ej: banco marcado como punto de robo), como enfrentarlas. Idea: API de Google Maps para saber si coordenadas son calles o algun tipo de edificio.
