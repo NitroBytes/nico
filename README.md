@@ -21,7 +21,7 @@ El mapa de delincuencia es visible para todos los usuarios que utilicen la aplic
 - Ionic (Front End)
 - NodeJS (Back End)
 
-# Extensiones
+# Versiones Posteriores
 - Registrar tipos de eventos (robo, hurto, tráfico de drogas, etc).
 - Registro de hechos pasados. Puede haber mucho miedo en el momento.
 - Versión Web.
