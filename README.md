@@ -14,11 +14,15 @@ Así parte la idea base del proyecto NICO.
 Proyecto NICO tiene por primer objetivo ayudar a reducir la delincuencia mediante la prevención de transitar por sectores que se conocen como foco de delincuencia. La posibilidad de prevención se basa en tener un mapa que muestre los puntos de conflicto que es mejor evitar que son reportadas por las mismas personas.
 
 # Descripción
-Una aplicación móvil
-
+Una aplicación móvil que permite notificar de forma **anónima** cuando esté ocurriendo un hecho delictual. Con la información que se vaya notificando, se permite tener un mapa de delincuencia con las zonas más denunciadas.
+El mapa de delincuencia es visible para todos los usuarios que utilicen la aplicación.
 
 # Extensiones
 - Registrar tipos de eventos (robo, hurto, tráfico de drogas, etc).
 - Registro de hechos pasados. Puede haber mucho miedo en el momento.
 - Versión Web.
 - Subir fotos/audio [punto complejo, falsas funas y privacidad]
+- Otorgar una API de acceso a instituciones de seguridad (Carabineros, PDI, Ministerio del Interior, etc) [vendible]
+
+# Problemas conocidos
+- Falsas denuncias (ej: banco marcado como punto de robo), como enfrentarlas. Idea: API de Google Maps para saber si coordenadas son calles o algun tipo de edificio.
