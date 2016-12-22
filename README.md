@@ -17,6 +17,10 @@ Proyecto NICO tiene por primer objetivo ayudar a reducir la delincuencia mediant
 Una aplicación móvil que permite notificar de forma **anónima** cuando esté ocurriendo un hecho delictual. Con la información que se vaya notificando, se permite tener un mapa de delincuencia con las zonas más denunciadas.
 El mapa de delincuencia es visible para todos los usuarios que utilicen la aplicación.
 
+# Tecnologías Potenciales
+- Ionic (Front End)
+- NodeJS (Back End)
+
 # Extensiones
 - Registrar tipos de eventos (robo, hurto, tráfico de drogas, etc).
 - Registro de hechos pasados. Puede haber mucho miedo en el momento.
